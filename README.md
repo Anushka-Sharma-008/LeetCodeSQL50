@@ -54,7 +54,7 @@ A personal repository to track and document my **SQL** learning journey using **
 3. **Run the SQL scripts:** Open the .sql files in any SQL environment (e.g., pgAdmin4, VS Code with a SQL extension, or psql CLI) and execute them against the sample database schema provided by LeetCode.
 ---
 
-### 🧠 Ideal For
+## 🧠 Ideal For
 
 * Beginners learning SQL query writing and database fundamentals.  
 * Students preparing for technical interviews that include SQL/database questions.  
@@ -62,7 +62,7 @@ A personal repository to track and document my **SQL** learning journey using **
 
 ---
 
-### 📌 Notes
+## 📌 Notes
 
 * Solutions will be updated regularly as I complete more problems in the SQL50 series.  
 * SQL code is written for clarity and learning, and may not cover every edge case or optimization.  
